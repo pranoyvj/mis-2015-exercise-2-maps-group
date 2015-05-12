@@ -1,0 +1,9 @@
+http://stackoverflow.com/questions/9093709/installation-error-install-failed-older-sdk
+
+http://stackoverflow.com/questions/24465289/android-studio-failure-install-failed-older-sdk
+
+http://www.androidhive.info/2012/07/android-gps-location-manager-tutorial/
+
+http://www.codota.com/android/scenarios/52fcbdd6da0a6fdfa462f0d3/finding-current-location?tag=dragonfly
+
+http://blog.teamtreehouse.com/beginners-guide-location-android
